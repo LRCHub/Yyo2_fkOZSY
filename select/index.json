@@ -1,16 +1,32 @@
 {
   "version": 1,
-  "base_track": "ツナギアイ（feat. 柏）",
+  "base_track": "ツナギアイ - Love Bound by Chains (feat. Haku)",
   "base_artist": "Neo",
-  "createdAt": "2026-03-08T18:17:23.692145Z",
+  "createdAt": "2026-03-10T22:36:40.038906Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツナギアイ",
+      "artist": "あれくん",
+      "has_synced": true,
+      "path": "select/01_ツナギアイ_あれくん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ツナギアイ",
+      "artist": "Alekun",
+      "has_synced": true,
+      "path": "select/02_ツナギアイ_Alekun.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ツナギアイ (feat. 柏)",
-      "artist": "Neo",
+      "title": "ツナギアイ",
+      "artist": "Neo, 柏",
       "has_synced": false,
-      "path": "select/pl_01_ツナギアイ_(feat._柏)_Neo.txt"
+      "path": "select/pl_01_ツナギアイ_Neo,_柏.txt"
     }
   ]
 }
